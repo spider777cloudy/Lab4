@@ -363,9 +363,14 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/AudioManager.cs"
 "Assets/CameraController.cs"
+"Assets/EnemyNavigation.cs"
 "Assets/InputSettings/Lab4.cs"
 "Assets/MinimapController.cs"
+"Assets/PersistentSingleton.cs"
 "Assets/PlayerStatsController.cs"
+"Assets/PlayerStatsController1.cs"
+"Assets/SaveGameManager.cs"
+"Assets/SceneController.cs"
 -langversion:9.0
 
 /deterministic
